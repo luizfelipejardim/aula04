@@ -1,1 +1,5 @@
 segunda alteração do dia 9
+<<<<<<< HEAD
+=======
+teste dia 10
+>>>>>>> novocadastro
